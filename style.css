@@ -151,13 +151,11 @@ button{
     position: fixed;
     bottom:5px;
     right:5px;
-  }
-
-  .box2{
-    margin-bottom: 20px;
-  }
+    }
   
   #sub3{margin-bottom: 10px;}
+    
   .credits{margin-top: 10px;}
-  select{select{margin-right:0px;}
+    
+  select{margin-right:0px;}
 }
